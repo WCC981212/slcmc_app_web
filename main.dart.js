@@ -59170,7 +59170,7 @@ n=A.h6(o,o,B.l7,o,o,o,o,o,o,o,o,15,o,B.co,o,o,!0,o,o,o,o,o,o,o,o)
 s=A.adc(!1,p.f,A.a7M(o,o,o,B.lp,o,o,o,o,!0,new A.e6(4,A.ju(0),new A.dL(B.ew,1,B.aY)),o,o,o,o,o,o,o,o,o,o,new A.e6(4,A.ju(0),B.kA),o,o,o,o,o,n,"Password",o,o,o,o,!1,o,o,o,o,o,B.z2,o,o,o,o,o,o,o,o,o,o,o),o,new A.a2p(p),B.k_)
 r=A.a7Z(B.a1,A.ju(0),new A.up(new A.a2q(),B.Ki,B.yB,b.a2(t.w).f.a.a,o),B.E,B.l5,5,o,o,o,o,o,B.dQ)
 n=t.G
-q=A.aba(A.a([A.Ft(new A.tL(A.anZ(o,o,new A.rp("logo_circle.png",o,o)),B.uK,o),120,o),B.FL,A.Xl(B.AW,B.qP,B.bY),B.FN,m,s,B.FM,r,B.FK,A.Xl(A.a([A.nY(o,A.wd("Need a password?",o,o,o,A.h6(o,o,B.de,o,o,o,o,o,o,o,o,12,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),B.az,!1,o,o,o,o,o,o,o,o,o,o,o,new A.a2r(b),o,o,o,o,o,o)],n),B.fj,B.bY)],n),B.ex,B.fj,B.bY)
+q=A.aba(A.a([A.Ft(new A.tL(A.anZ(o,o,new A.rp("assets/logo_circle.png",o,o)),B.uK,o),120,o),B.FL,A.Xl(B.AW,B.qP,B.bY),B.FN,m,s,B.FM,r,B.FK,A.Xl(A.a([A.nY(o,A.wd("Need a password?",o,o,o,A.h6(o,o,B.de,o,o,o,o,o,o,o,o,12,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),B.az,!1,o,o,o,o,o,o,o,o,o,o,o,new A.a2r(b),o,o,o,o,o,o)],n),B.fj,B.bY)],n),B.ex,B.fj,B.bY)
 return new A.vB(new A.k0(B.yE,A.aba(A.a([new A.tA(q,B.kx,p.d),new A.C6(A.l0(o,o,o,o,o,o,o,o),o),A.Xl(A.a([A.nY(o,A.wd("Privacy Policy",o,o,o,A.h6(o,o,B.de,o,o,o,o,o,o,o,o,12,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),B.az,!1,o,o,o,o,o,o,o,o,o,o,o,new A.a2s(),o,o,o,o,o,o),B.FJ,A.nY(o,A.wd("Terms of Service",o,o,o,A.h6(o,o,B.de,o,o,o,o,o,o,o,o,12,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),B.az,!1,o,o,o,o,o,o,o,o,o,o,o,new A.a2t(),o,o,o,o,o,o)],n),B.qP,B.bY)],n),B.ex,B.CW,B.bY),o),B.k,o)}}
 A.a2o.prototype={
 $1(a){this.a.e.sfX(0,a)},
