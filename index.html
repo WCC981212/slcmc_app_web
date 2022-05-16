@@ -35,9 +35,17 @@
     <title>SLCMC</title>
     <link rel="manifest" href="manifest.json" />
 
+    <script type="text/javascript">
+      let useHtml = false;
+      if (useHtml) {
+        window.flutterWebRenderer = 'html';
+      } else {
+        window.flutterWebRenderer = 'canvaskit';
+      }
+    </script>
     <script>
       // The value below is injected by flutter build, do not touch.
-      var serviceWorkerVersion = '2805900255';
+      var serviceWorkerVersion = '2683135204';
     </script>
     <!-- This script adds the flutter initialization JS code -->
     <script src="flutter.js" defer></script>
